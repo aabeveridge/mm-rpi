@@ -15,7 +15,7 @@ As you can see in the picture, I purchased a case with a fan ($13) for my Rpi to
 
 ![](./images/image4.jpg)
 
-You will need to temporarily plug a monitor, keyboard, and mouse into your Rpi during installation. After the installation is finished, and you are able to log into your Rpi through ssh, you will be able to unplug all of these devices and login to your Rpi data collection server and operate from another computer. However, until all of that setup is finished, you will need to work with the Rpi directly.
+You will need to temporarily plug a monitor, keyboard, and mouse into your Rpi during installation. After the installation is finished, and you are able to log into your Rpi through ssh. This means that you will be able to unplug all of these devices and login to your Rpi data collection server and operate it from another computer. However, until all of that setup is finished, you will need to work with the Rpi directly.
 
 
 ## 1. Install the Raspbian Jessie with Pixel operating system on your Rpi
@@ -25,7 +25,7 @@ I purchased a 32GB micro SD from Walmart for ($12). Follow the instructions at U
 <https://www.raspberrypi.org/downloads/raspbian/>
 
 
-## 2. Open a Terminal (ctrl-alt-T) in Raspbian, and then build MassMine from source:
+## 2. Open a Terminal (ctrl-alt-t) in Raspbian, and then build MassMine from source:
 
 After the Raspbian OS is installed on the SD card, insert the SD card into the bottom of your Rpi, and then plug in your ethernet cable (connected to your Internet router), keyboard, mouse, and monitor (HDMI). After all of these components are plugged in, then insert the power source (micro usb) into your Rpi, which will turn it on.
 
