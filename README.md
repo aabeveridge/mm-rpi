@@ -15,7 +15,7 @@ As you can see in the picture, I purchased a case with a fan ($13) for my Rpi to
 
 ![](./images/image4.jpg)
 
-You will need to temporarily plug a monitor, keyboard, and mouse into your Rpi during installation. After the installation is finished, and you are able to log into your Rpi through ssh. This means that you will be able to unplug all of these devices and login to your Rpi data collection server and operate it from another computer. However, until all of that setup is finished, you will need to work with the Rpi directly.
+You will need to temporarily plug a monitor, keyboard, and mouse into your Rpi during installation. After the installation is finished, you will be able to login to your Rpi through ssh from other computers on your network. This means that you will be able to unplug all of these devices and control your Rpi from another computer. However, until all of that setup is finished, you will need to work with the Rpi directly.
 
 
 ## 1. Install the Raspbian Jessie with Pixel operating system on your Rpi
