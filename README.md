@@ -93,3 +93,5 @@ If you see `test.json` listed, then your setup is complete. If you want to make 
     nano test.json
 
 That's it! Have fun with your new data collection server!
+
+![](./images/image1.jpg)
