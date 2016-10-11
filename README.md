@@ -51,7 +51,7 @@ Next, navigate back out of the MassMine directory with `cd ..`, and then test Ma
 
     massmine --task=google-country-trends
 
-After confirming that MassMine works, exit the terminal.
+You should see JSON data printed directly to your terminal with that command---showing the top trends for each country tracked by Google. After confirming that MassMine works, exit the terminal.
 
 
 ## 3. Connect the External Hard Drive

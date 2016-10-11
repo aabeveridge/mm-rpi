@@ -43,7 +43,7 @@
 <pre><code>ln -s `pwd`/massmine /usr/local/bin</code></pre>
 <p>Next, navigate back out of the MassMine directory with <code>cd ..</code>, and then test MassMine with the following command:</p>
 <pre><code>massmine --task=google-country-trends</code></pre>
-<p>After confirming that MassMine works, exit the terminal.</p>
+<p>You should see JSON data printed directly to your terminal with that command—showing the top trends for each country tracked by Google. After confirming that MassMine works, exit the terminal.</p>
 <h2 id="connect-the-external-hard-drive">3. Connect the External Hard Drive</h2>
 <p>Returning to the desktop of the Raspbian OS, plug in your external drive. Raspbian should recognize it automatically. In the case of the WD My Book external HDD that I chose for this project, the Raspbian OS detected it automatically and no further drivers were required. IF the external HDD that you have chosen for your project is not detected automatically, you may need to manually mount the drive through the terminal. For this tutorial, I will assume that your drive is detected as easily as mine was.</p>
 <p>After plugging in the drive, Raspbian will ask you if you want to view the drive through the file browser. Agree and find the drive on your computer. You will need the precise location of the drive for the data collected by MassMine. For my installation of Raspbian, it placed the drive at the following location on my computer:</p>
