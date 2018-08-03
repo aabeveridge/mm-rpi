@@ -46,10 +46,6 @@ a:focus {
   outline: thin dotted;
 }
 
-.nav {
-  border-bottom: 5px solid #484848;
-}
-
 .nav a {
   font-size: 20px;
   margin-left: 4px;
