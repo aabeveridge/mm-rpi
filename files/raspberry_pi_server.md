@@ -93,3 +93,5 @@ If you see `test.json` listed, then your setup is complete. If you want to make 
 That's it! Have fun with your new data collection server!
 
 ![](./images/image1.jpg)
+
+<a href="using_massmine.html"><button type="button">Next Page</button></a>

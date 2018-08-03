@@ -16,4 +16,4 @@ While open source and code sharing initiatives (<---hyperlink/cite) go a long wa
 
 In the next two sections of this chapter we show how to use a Raspberry Pi for collecting Google Trends and Wikipedia data for research. The goal is to present the "maker" approach to...
 
- <a href="comparison.html"><button type="button">Next Page</button></a>
+<a href="comparison.html"><button type="button">Next Page</button></a>
