@@ -1,4 +1,0 @@
-#!/bin/bash
-
-#Use pandoc to create html page from markdown report.md
-pandoc README.md -s -c pandoc.css -o index.html --smart

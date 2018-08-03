@@ -20,6 +20,11 @@ body {
   background: #fefefe;
 }
 
+button {
+  cursor: pointer;
+  margin-bottom: 60px;
+}
+
 a {
   color: #0645ad;
   text-decoration: none;
@@ -39,6 +44,20 @@ a:active {
 
 a:focus {
   outline: thin dotted;
+}
+
+.nav {
+  border-bottom: 5px solid #484848;
+}
+
+.nav a {
+  font-size: 20px;
+  margin-left: 4px;
+  margin-right: 2px;
+}
+
+.nav b {
+  font-size: 20px;
 }
 
 *::-moz-selection {
@@ -69,7 +88,7 @@ img {
   max-width: 100%;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h2, h3, h4, h5, h6 {
   color: #111;
   line-height: 125%;
   margin-top: 2em;
@@ -80,8 +99,11 @@ h4, h5, h6 {
 }
 
 h1 {
-  font-size: 2.5em;
+  font-size: 2em;
   font-weight: bold;
+  color: #111;
+  line-height: 125%;
+  margin-top: 1em;
 }
 
 h2 {
