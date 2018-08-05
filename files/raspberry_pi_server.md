@@ -1,6 +1,6 @@
-# A Dedicated MassMine Data Collection Server on a Raspberry Pi 3
+# Raspberry Pi Data Collection Server
 
-This tutorial shows how to install MassMine on a Raspberry Pi 3 (Rpi), how to connect a large external hard disk drive (HDD) for data storage, and how to setup the Rpi so that you can login and manage data collection from another computer (ssh). Below is a picture of my entire setup next to my router. As you can see, the external 8TB HDD and the Rpi are less than the width of my hand:
+This is a tutorial on how to install MassMine on a Raspberry Pi 3 (Rpi), how to connect a large external hard disk drive (HDD) for data storage, and how to setup the Rpi to allow you to manage your data collection from another computer (ssh). Below is a picture of the entire setup next to my router. As you can see, the external 8TB HDD and the Rpi are less than the width of my hand:
 
 ![](./images/image2.jpg)
 
