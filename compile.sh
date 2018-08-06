@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #home page
-pandoc ./files/introduction.md \
+pandoc ./files/overview.md \
 --css ./css/pandoc.css \
 --include-before-body ./files/nav.html \
 --output index.html \
