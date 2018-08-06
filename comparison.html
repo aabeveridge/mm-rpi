@@ -11,6 +11,7 @@
 <body>
 <div class="nav"><a href="index.html">Overview</a>&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;<a href="comparison.html">Comparison</a>&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;<a href="raspberry_pi_server.html">Raspberry Pi Server</a>&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;<a href="using_massmine.html">Using MassMine</a>&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;<a href="references.html">References</a></div>
 <h1 id="comparison">Comparison</h1>
+<p>Text here for introduction to “Comparison” section…</p>
 <p style="margin-bottom:-10px;">
 Page Content:
 </p>
@@ -41,7 +42,7 @@ Page Content:
 <p>The same estimates were generated for the comparison laptop. <a href="https://ark.intel.com/products/81016/Intel-Core-i5-4210U-Processor-3M-Cache-up-to-2_70-GHz">According to Intel</a> and <a href="http://cpuboss.com/cpu/Intel-Core-i5-4210U">cpuboss.com</a> the Intel Core i5-421OU processor has a Thermal Design Power (peak average power consumption) of 15 watts and typical consumption around 12.19 watts. Combined with our estimated electricity costs, we can generate a similar set of curves for the typical personal computer running MassMine (Figure 1, red shading). Under all comparable conditions, the Raspberry Pi has smaller efficiency costs (approximately 30% less). Note that this does not reflect the costs of any attached peripherals, such as the cost of running the computer monitor. In our setup, the Pi is not connected to any other power-consuming devices, including a monitor, so the final savings is likely much greater than the typical computer.</p>
 <p>As discussed above, efficiency can be understood across a number of domains. Notably, processing time is a relevant consideration in this case. For example, if the Pi takes 30% longer to complete the same tasks as the personal computer, the power savings are negated for any finite-running tasks. To assess this, we compared both processing time and CPU consumption across devices for a number of data collection tasks available through the MassMine software. Average completion time and CPU usage are reported for each device (Figure 2). Error bars, depicting standard error of the mean, demonstrate clear differences between the Raspberry Pi and the personal computer across all tasks. For most tasks, however, the difference in completion time is negligible–except for two conditions, the Pi managed similar temporal results. While MassMine asked more of the Pi’s CPU (Figure 2 inset), the mean rate was always below 100%. It is worth noting that short data collection batches were conducted for each task. Because of this, a meaningful proportion of the processing time for each simulation was dedicated to software startup and shutdown activities (a fact of particular relevance to the two right-most tasks in Figure 2). These are particularly costly steps relative to those associated with the activity of more passively collecting data. As such, for longer running activities (typical of real-world data collection efforts), the mean duration between devices is likely to shrink significantly, especially for the most egregious tasks.</p>
 <h2 id="conclusion">Conclusion</h2>
-<p>Text here…</p>
+<p>Text here for conclusion to comparison section…</p>
 <a href="raspberry_pi_server.html">
 <button type="button">
 Next Page
