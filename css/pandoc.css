@@ -81,6 +81,10 @@ p {
   margin: 1em 0;
 }
 
+.ref p {
+  margin-bottom: 20px;
+}
+
 img {
   max-width: 100%;
 }
