@@ -1,18 +1,18 @@
 #References
 
 <div class="ref">
-<p>Anwaar, Waqas, and Munam Ali Shah. “Energy Efficient Computing: A Comparison of Raspberry PI with Modern Devices.” International Journal of Computer and Information Technology, vol. 04, no. 02, p. 5.</p>
+<p>Anwaar, Waqas, and Munam Ali Shah. “Energy Efficient Computing: A Comparison of Raspberry PI with Modern Devices.” <em>International Journal of Computer and Information Technology</em>, vol. 04, no. 02, p. 5.</p>
 <p>Eyman, Douglas. <em>Digital Rhetoric: Theory, Method, Practice</em>. University of Michigan Press, 2015.</p>
-<p>Fernandes, Steven Lawrence, and Josemin G. Bala. “Low Power Affordable and Efficient Face Detection in the Presence of Various Noises and Blurring Effects on a Single-Board Computer.” Emerging ICT for Bridging the Future - Proceedings of the 49th Annual Convention of the Computer Society of India (CSI), edited by Suresh Chandra Satapathy et al., vol. 1, Springer International Publishing, 2015, pp. 119–27.</p>
-<p>Horn, Nicholas M. Van, and Aaron Beveridge. “MassMine: Your Access To Data.” The Journal of Open Source Software, Dec. 2016, doi:10.21105/joss.00050.</p>
+<p>Fernandes, Steven Lawrence, and Josemin G. Bala. “Low Power Affordable and Efficient Face Detection in the Presence of Various Noises and Blurring Effects on a Single-Board Computer.” <em>Emerging ICT for Bridging the Future - Proceedings of the 49th Annual Convention of the Computer Society of India (CSI)</em>, edited by Suresh Chandra Satapathy et al., vol. 1, Springer International Publishing, 2015, pp. 119–27.</p>
+<p>Horn, Nicholas M. Van, and Aaron Beveridge. “MassMine: Your Access To Data.” <em>The Journal of Open Source Software</em>, Dec. 2016, doi:10.21105/joss.00050.</p>
 <p>Jockers, Matthew L. <em>Macroanalysis: Digital Methods and Literary History</em>. 1st Edition edition, University of Illinois Press, 2013.</p>
-<p>Kaup, F., et al. “PowerPi: Measuring and Modeling the Power Consumption of the Raspberry Pi.” 39th Annual IEEE Conference on Local Computer Networks, 2014, pp. 236–43. IEEE Xplore, doi:10.1109/LCN.2014.6925777.</p>
+<p>Kaup, F., et al. “PowerPi: Measuring and Modeling the Power Consumption of the Raspberry Pi.” <em>39th Annual IEEE Conference on Local Computer Networks</em>, 2014, pp. 236–43. IEEE Xplore, doi:10.1109/LCN.2014.6925777.</p>
 <p>LeBlanc, Paul. <em>Writing Teachers Writing Software: Creating Our Place in the Electronic Age</em>. National Council of Teachers of English, 1993.</p>
-<p>Miller, Ben, et al. Writing Studies Tree. 2015, https://www.writingstudiestree.org/live/.</p>
-<p>Omizo, Ryan, et al. Faciloscope. 2014, http://faciloscope.cal.msu.edu/facilitation/.</p>
-<p>Omizo, Ryan, and Bill Hart-Davidson. “Hedge-O-Matic.” Enculturation, May 2016, http://hedgeomatic.cal.msu.edu/hedgeomatic/.</p>
-<p>Philippot, Olivier. “Raspberry Pi 3 : Is It Worth for Energy Efficiency ?” GREENSPECTOR, https://greenspector.com/en/articles/2016-05-29-rapsberry-3/. Accessed 30 Aug. 2018.</p>
+<p>Miller, Ben, et al. "Writing Studies Tree." 2015, https://www.writingstudiestree.org/live/.</p>
+<p>Omizo, Ryan, et al. "Faciloscope." 2014, http://faciloscope.cal.msu.edu/facilitation/.</p>
+<p>Omizo, Ryan, and Bill Hart-Davidson. “Hedge-O-Matic.” <em>Enculturation</em>, May 2016, http://hedgeomatic.cal.msu.edu/hedgeomatic/.</p>
+<p>Philippot, Olivier. “Raspberry Pi 3 : Is It Worth for Energy Efficiency ?” <em>GREENSPECTOR</em>, https://greenspector.com/en/articles/2016-05-29-rapsberry-3/. Accessed 30 Aug. 2018.</p>
 <p>Ridolfo, Jim, and William Hart-Davidson, editors. <em>Rhetoric and the Digital Humanities</em>. University Of Chicago Press, 2015.</p>
-<p>Tso, F. P., et al. “The Glasgow Raspberry Pi Cloud: A Scale Model for Cloud Computing Infrastructures.” 2013 IEEE 33rd International Conference on Distributed Computing Systems Workshops, 2013, pp. 108–12. IEEE Xplore, doi:10.1109/ICDCSW.2013.25.</p>
-<p>Van Horn, Nicholas M., et al. “Attention Ecology: Trend Circulation and the Virality Threshold.” Digital Humanities Quarterly, vol. 010, no. 4, Oct. 2016.</p>
+<p>Tso, F. P., et al. “The Glasgow Raspberry Pi Cloud: A Scale Model for Cloud Computing Infrastructures.” <em>2013 IEEE 33rd International Conference on Distributed Computing Systems Workshops</em>, 2013, pp. 108–12. IEEE Xplore, doi:10.1109/ICDCSW.2013.25.</p>
+<p>Van Horn, Nicholas M., et al. “Attention Ecology: Trend Circulation and the Virality Threshold.” <em>Digital Humanities Quarterly</em>, vol. 010, no. 4, Oct. 2016.</p>
 </div>

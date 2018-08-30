@@ -1,6 +1,6 @@
 #Big Data, Tiny Computers: Making Data-Driven Methods Accessible with a Raspberry Pi
 
-By [Aaron Beveridge](http://aaronbeveridge.com/) and [Nicholas M. Van Horn](http://nicholasvanhorn.com/)
+By [Aaron Beveridge](http://aaronbeveridge.com/)<a href="#footnote">&#42;</a> and [Nicholas M. Van Horn](http://nicholasvanhorn.com/)<a href="#footnote">&#42;</a>
 
 ![](./images/rpi.jpg)
 
@@ -16,6 +16,8 @@ For many researchers, the issues that effect the efficiency and sustainability o
 
 There are other approaches that we could have used to collect data with MassMine, like using a university research computer cluster (supercomputer) or running a cloud server---both of which are possible using MassMine. However, these options are usually available to only the most advanced researchers who have trained to use these systems. Therefore, we developed a research workflow to use a Raspberry Pi as a data collection server, and we have released a new version of MassMine to specifically support this workflow. This is similar, in many ways, to the pragmatic workflow developed for the "Attention Ecology" article mentioned in the previous paragraph, except that it additionally takes advantage of the of the resource and space saving efficiencies of the Raspberry Pi. While there are many scholarly benefits to a *maker* research orientation, we hope this work opens new possibilities for applying data-driven methods to well-established rhetoric and writing theory, as well as encouraging new research by enabling the collection of exigent and novel datasets.
 
-This webtext is split in two sections. The "Overview," along with the "Comparison" page of this webtext, address the efficiency and sustainability of the Raspberry Pi for long term data collection projects. In the "Comparison" section that follows, we analyze how a Raspberry Pi compares to a typical middle-tier personal computer, showing how the Raspberry Pi provides significant resource savings. The second half of this webtext includes the "Raspberry Pi Server" and "Using MassMine" pages. From a *maker* perspective, the last two sections provide readers with everything they need to setup their own Raspberry Pi and collect data using MassMine.     
+This webtext is split in two sections. The "Overview," along with the "Comparison" page of this webtext, address the efficiency and sustainability of the Raspberry Pi for long term data collection projects. In the "Comparison" section that follows, we analyze how a Raspberry Pi compares to a typical middle-tier personal computer, showing how the Raspberry Pi provides significant resource savings. The second half of this webtext includes the "Raspberry Pi Server" and "Using MassMine" pages. From a *maker* perspective, the last two sections provide readers with everything they need to setup their own Raspberry Pi and collect data using MassMine.
+
+<p id="footnote">&#42;Beveridge and Van Horn have contributed equally to the research and writing for this chapter</p>  
 
 <a href="comparison.html"><button type="button">Next Page</button></a>

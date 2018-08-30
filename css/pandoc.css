@@ -85,6 +85,11 @@ p {
   margin-bottom: 20px;
 }
 
+#footnote {
+  font-size: 10px;
+  font-weight: bold;
+}
+
 img {
   max-width: 100%;
 }
